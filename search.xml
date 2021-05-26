@@ -18,4 +18,33 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>First Test</title>
+    <url>/2021/05/25/First-Test/</url>
+    <content><![CDATA[<h3 id="你好，世界！"><a href="#你好，世界！" class="headerlink" title="你好，世界！"></a>你好，世界！</h3><span id="more"></span>
+<h2 id="轻轻迎来第一束阳光"><a href="#轻轻迎来第一束阳光" class="headerlink" title="轻轻迎来第一束阳光"></a>轻轻迎来第一束阳光</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">//C</span><br><span class="line">include&lt;stdio.h&gt;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello, world!&quot;</span>);</span><br><span class="line">    <span class="built_in">return</span> 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="生命中第一杯茶"><a href="#生命中第一杯茶" class="headerlink" title="生命中第一杯茶"></a>生命中第一杯茶</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">//C++</span><br><span class="line">include&lt;iostream&gt;</span><br><span class="line">using namespace std;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello, world!&quot;</span> &lt;&lt; <span class="string">endl;</span></span><br><span class="line"><span class="string">&#125;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="生命中第一声欢笑"><a href="#生命中第一声欢笑" class="headerlink" title="生命中第一声欢笑"></a>生命中第一声欢笑</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Python</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Hello, world!&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<h2 id="生命中第一次流泪"><a href="#生命中第一次流泪" class="headerlink" title="生命中第一次流泪"></a>生命中第一次流泪</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">/*JavaScript*/</span><br><span class="line">alert(<span class="string">&#x27;Hello, world!&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<h2 id="生命中…"><a href="#生命中…" class="headerlink" title="生命中…"></a>生命中…</h2><h1 id="我一直在这里，我一直在这里等你"><a href="#我一直在这里，我一直在这里等你" class="headerlink" title="我一直在这里，我一直在这里等你"></a>我一直在这里，我一直在这里等你</h1>]]></content>
+      <tags>
+        <tag>C++</tag>
+        <tag>test</tag>
+        <tag>Mo2North</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随手小记5.26</title>
+    <url>/2021/05/26/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B05-26/</url>
+    <content><![CDATA[<h2 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h2><p>今天成功跑了3.67公里，这对于我来说真是一个大的挑战。之前从来没有跑过这么长的距离。<br>结果就是肚子疼了一个晚上，抽筋似的。<br>喝了一杯某鹿茶，冰的，肚子更疼了。<br>还有今晚的月全食，或者说是血月，相机拍出来的始终没有肉眼看到的好看。<br>这是我第一次搭建博客，测试了很多，但是令我费解的是，之前写的两篇测试博客全都没有成功上传。<br>今晚稍微学了一点数理统计，只能说是非常抽象了…一直没有办法理解<br>或许是我不太擅长数学？我也不知道，自从进入到大学，受到的打击可不止一星半点。<br>疼的有点受不了，先睡一会。<br>晚：21：34</p>
+<h2 id="关于未来"><a href="#关于未来" class="headerlink" title="关于未来"></a>关于未来</h2><p>可能会更新一些：<br>关于算法问题的思考。<br>关于数学问题的思考。<br>关于人生的思考。<br>日常生活的记录。</p>
+]]></content>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
 </search>
