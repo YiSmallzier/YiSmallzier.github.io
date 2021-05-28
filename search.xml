@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About Me</title>
-    <url>/2021/05/28/About-Me/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="基本信息-Essential-Intormation"><a href="#基本信息-Essential-Intormation" class="headerlink" title="基本信息 (Essential Intormation)"></a>基本信息 (Essential Intormation)</h4><hr>
-<ul>
-<li>姓名：邓定轩</li>
-<li>现居：厦门</li>
-<li>Github：<a href="https://github.com/YiSmallzier">YiSmallzier</a></li>
-<li>Bilibili：<a href="https://space.bilibili.com/21133094">Yi_v_Yi</a></li>
-<li>QQ：975808127</li>
-<li>微信：ddx_Yi_Smallzier</li>
-</ul>
-<div align="center" style="height:280px; margin: 40px">
-    <img src="https://i.loli.net/2021/05/28/o1vrIiZguJyOcHk.jpg"/>
-</div>
+    <title>Hello World</title>
+    <url>/2021/05/25/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<h4 id="兴趣爱好-Interests"><a href="#兴趣爱好-Interests" class="headerlink" title="兴趣爱好 (Interests)"></a>兴趣爱好 (Interests)</h4><hr>
-<ul>
-<li>古典吉他</li>
-<li>手冲咖啡</li>
-<li>编程</li>
-<li>音乐</li>
-<li>Minecraft</li>
-<li>音乐游戏(Music Game)</li>
-</ul>
-<h4 id="个人简介-Personal-Introduciton"><a href="#个人简介-Personal-Introduciton" class="headerlink" title="个人简介 (Personal Introduciton)"></a>个人简介 (Personal Introduciton)</h4><hr>
-<ul>
-<li>XMUer</li>
-<li>二十四岁，是学生(bushi)</li>
-</ul>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>随手小记5.26</title>
+    <url>/2021/05/26/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B05-26/</url>
+    <content><![CDATA[<h3 id="关于现在"><a href="#关于现在" class="headerlink" title="关于现在"></a>关于现在</h3><p>今天成功跑了3.67公里，这对于我来说真是一个大的挑战。之前从来没有跑过这么长的距离。结果就是肚子疼了一个晚上，抽筋似的。喝了一杯某鹿茶，冰的，肚子更疼了。<br>还有今晚的月全食，或者说是血月，相机拍出来的始终没有肉眼看到的好看。<br>这是我第一次搭建博客，测试了很多，但是令我费解的是，之前写的两篇测试博客全都没有成功上传。<br>今晚稍微学了一点数理统计，只能说是非常抽象了…一直没有办法理解。或许是我不太擅长数学？我也不知道，自从进入到大学，受到的打击可不止一星半点。<br>疼的有点受不了，先睡一会。<br>晚：21：34</p>
+<h3 id="关于过去"><a href="#关于过去" class="headerlink" title="关于过去"></a>关于过去</h3><p>With the wind gone.</p>
+<h3 id="关于未来"><a href="#关于未来" class="headerlink" title="关于未来"></a>关于未来</h3><p>可能会更新一些：<br>关于算法问题的思考。<br>关于数学问题的思考。<br>关于人生的思考。<br>日常生活的记录。</p>
 ]]></content>
       <tags>
-        <tag>About</tag>
+        <tag>Diary</tag>
+        <tag>YiSmallzier</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好，世界！</title>
+    <url>/2021/05/25/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81/</url>
+    <content><![CDATA[<h2 id="你好，世界！"><a href="#你好，世界！" class="headerlink" title="你好，世界！"></a>你好，世界！</h2><h4 id="生命中第一束阳光"><a href="#生命中第一束阳光" class="headerlink" title="生命中第一束阳光"></a>生命中第一束阳光</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">//C</span><br><span class="line">include&lt;stdio.h&gt;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello, world!&quot;</span>);</span><br><span class="line">    <span class="built_in">return</span> 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h4 id="生命中第一杯咖啡"><a href="#生命中第一杯咖啡" class="headerlink" title="生命中第一杯咖啡"></a>生命中第一杯咖啡</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">//C++</span><br><span class="line">include&lt;iostream&gt;</span><br><span class="line">using namespace std;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello, world!&quot;</span> &lt;&lt; <span class="string">endl;</span></span><br><span class="line"><span class="string">&#125;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="生命中第一声欢笑"><a href="#生命中第一声欢笑" class="headerlink" title="生命中第一声欢笑"></a>生命中第一声欢笑</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Python</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Hello, world!&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<h3 id="生命中第一次流泪"><a href="#生命中第一次流泪" class="headerlink" title="生命中第一次流泪"></a>生命中第一次流泪</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">/*JavaScript*/</span><br><span class="line">alert(<span class="string">&#x27;Hello, world!&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<h3 id="生命中…"><a href="#生命中…" class="headerlink" title="生命中…"></a>生命中…</h3><h2 id="我一直在这里，我一直在这里等你"><a href="#我一直在这里，我一直在这里等你" class="headerlink" title="我一直在这里，我一直在这里等你"></a>我一直在这里，我一直在这里等你</h2>]]></content>
+      <tags>
+        <tag>编程</tag>
+        <tag>YiSmallzier</tag>
       </tags>
   </entry>
   <entry>
@@ -129,52 +143,38 @@
       </tags>
   </entry>
   <entry>
-    <title>随手小记5.26</title>
-    <url>/2021/05/26/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B05-26/</url>
-    <content><![CDATA[<h3 id="关于现在"><a href="#关于现在" class="headerlink" title="关于现在"></a>关于现在</h3><p>今天成功跑了3.67公里，这对于我来说真是一个大的挑战。之前从来没有跑过这么长的距离。结果就是肚子疼了一个晚上，抽筋似的。喝了一杯某鹿茶，冰的，肚子更疼了。<br>还有今晚的月全食，或者说是血月，相机拍出来的始终没有肉眼看到的好看。<br>这是我第一次搭建博客，测试了很多，但是令我费解的是，之前写的两篇测试博客全都没有成功上传。<br>今晚稍微学了一点数理统计，只能说是非常抽象了…一直没有办法理解。或许是我不太擅长数学？我也不知道，自从进入到大学，受到的打击可不止一星半点。<br>疼的有点受不了，先睡一会。<br>晚：21：34</p>
-<h3 id="关于过去"><a href="#关于过去" class="headerlink" title="关于过去"></a>关于过去</h3><p>With the wind gone.</p>
-<h3 id="关于未来"><a href="#关于未来" class="headerlink" title="关于未来"></a>关于未来</h3><p>可能会更新一些：<br>关于算法问题的思考。<br>关于数学问题的思考。<br>关于人生的思考。<br>日常生活的记录。</p>
+    <title>About Me</title>
+    <url>/2021/05/28/About-Me/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="基本信息-Essential-Intormation"><a href="#基本信息-Essential-Intormation" class="headerlink" title="基本信息 (Essential Intormation)"></a>基本信息 (Essential Intormation)</h4><hr>
+<ul>
+<li>姓名：邓定轩</li>
+<li>现居：厦门</li>
+<li>Github：<a href="https://github.com/YiSmallzier">YiSmallzier</a></li>
+<li>Bilibili：<a href="https://space.bilibili.com/21133094">Yi_v_Yi</a></li>
+<li>QQ：975808127</li>
+<li>微信：ddx_Yi_Smallzier</li>
+</ul>
+<div align="center" style="height: 30%; margin: 40px">
+    <img src="https://i.loli.net/2021/05/28/o1vrIiZguJyOcHk.jpg"/>
+</div>
+
+<h4 id="兴趣爱好-Interests"><a href="#兴趣爱好-Interests" class="headerlink" title="兴趣爱好 (Interests)"></a>兴趣爱好 (Interests)</h4><hr>
+<ul>
+<li>古典吉他</li>
+<li>手冲咖啡</li>
+<li>编程</li>
+<li>音乐</li>
+<li>Minecraft</li>
+<li>音乐游戏(Music Game)</li>
+</ul>
+<h4 id="个人简介-Personal-Introduciton"><a href="#个人简介-Personal-Introduciton" class="headerlink" title="个人简介 (Personal Introduciton)"></a>个人简介 (Personal Introduciton)</h4><hr>
+<ul>
+<li>XMUer</li>
+<li>二十四岁，是学生(bushi)</li>
+</ul>
 ]]></content>
       <tags>
-        <tag>Diary</tag>
-        <tag>YiSmallzier</tag>
+        <tag>About</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>你好，世界！</title>
-    <url>/2021/05/25/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81/</url>
-    <content><![CDATA[<h2 id="你好，世界！"><a href="#你好，世界！" class="headerlink" title="你好，世界！"></a>你好，世界！</h2><h4 id="生命中第一束阳光"><a href="#生命中第一束阳光" class="headerlink" title="生命中第一束阳光"></a>生命中第一束阳光</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">//C</span><br><span class="line">include&lt;stdio.h&gt;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello, world!&quot;</span>);</span><br><span class="line">    <span class="built_in">return</span> 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<h4 id="生命中第一杯咖啡"><a href="#生命中第一杯咖啡" class="headerlink" title="生命中第一杯咖啡"></a>生命中第一杯咖啡</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">//C++</span><br><span class="line">include&lt;iostream&gt;</span><br><span class="line">using namespace std;</span><br><span class="line">int <span class="function"><span class="title">main</span></span>()</span><br><span class="line">&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello, world!&quot;</span> &lt;&lt; <span class="string">endl;</span></span><br><span class="line"><span class="string">&#125;</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="生命中第一声欢笑"><a href="#生命中第一声欢笑" class="headerlink" title="生命中第一声欢笑"></a>生命中第一声欢笑</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment">#Python</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Hello, world!&#x27;</span>)</span><br></pre></td></tr></table></figure>
-
-<h3 id="生命中第一次流泪"><a href="#生命中第一次流泪" class="headerlink" title="生命中第一次流泪"></a>生命中第一次流泪</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">/*JavaScript*/</span><br><span class="line">alert(<span class="string">&#x27;Hello, world!&#x27;</span>)</span><br></pre></td></tr></table></figure>
-
-<h3 id="生命中…"><a href="#生命中…" class="headerlink" title="生命中…"></a>生命中…</h3><h2 id="我一直在这里，我一直在这里等你"><a href="#我一直在这里，我一直在这里等你" class="headerlink" title="我一直在这里，我一直在这里等你"></a>我一直在这里，我一直在这里等你</h2>]]></content>
-      <tags>
-        <tag>编程</tag>
-        <tag>YiSmallzier</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/05/25/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
 </search>
