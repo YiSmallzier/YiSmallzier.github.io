@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-27T14:23:53.934Z</updated>
+  <updated>2021-05-28T09:55:29.897Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://example.com/2021/05/28/About-Me/"/>
+    <id>http://example.com/2021/05/28/About-Me/</id>
+    <published>2021-05-28T09:06:07.118Z</published>
+    <updated>2021-05-28T09:55:29.897Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/tags/About/"/>
+    
+  </entry>
   
   <entry>
     <title>关于漠河以北</title>
