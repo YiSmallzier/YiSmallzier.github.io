@@ -1,41 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About Me</title>
-    <url>/2021/05/28/About-Me/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="基本信息-Essential-Intormation"><a href="#基本信息-Essential-Intormation" class="headerlink" title="基本信息 (Essential Intormation)"></a>基本信息 (Essential Intormation)</h4><hr>
-<ul>
-<li>姓名：邓定轩</li>
-<li>现居：厦门</li>
-<li>Github：<a href="https://github.com/YiSmallzier">YiSmallzier</a></li>
-<li>Bilibili：<a href="https://space.bilibili.com/21133094">Yi_v_Yi</a></li>
-<li>QQ：975808127</li>
-<li>微信：ddx_Yi_Smallzier</li>
-</ul>
-<div align="center" style="height: 280px; margin: 40px">
-    <img style="height: 100%" src="https://i.loli.net/2021/05/28/o1vrIiZguJyOcHk.jpg" />
-</div>
-
-<h4 id="兴趣爱好-Interests"><a href="#兴趣爱好-Interests" class="headerlink" title="兴趣爱好 (Interests)"></a>兴趣爱好 (Interests)</h4><hr>
-<ul>
-<li>古典吉他</li>
-<li>手冲咖啡</li>
-<li>编程</li>
-<li>音乐</li>
-<li>Minecraft</li>
-<li>音乐游戏(Music Game)</li>
-</ul>
-<h4 id="个人简介-Personal-Introduciton"><a href="#个人简介-Personal-Introduciton" class="headerlink" title="个人简介 (Personal Introduciton)"></a>个人简介 (Personal Introduciton)</h4><hr>
-<ul>
-<li>XMUer</li>
-<li>二十四岁，是学生(bushi)</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>About</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于漠河以北</title>
     <url>/2021/05/27/%E5%85%B3%E4%BA%8E%E6%BC%A0%E6%B2%B3%E4%BB%A5%E5%8C%97/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>最近更新于2021年5月27日22:17:49</em></p>
@@ -53,7 +18,7 @@
 <li>原野小屋</li>
 </ul>
 <p>叫什么都可以，只要这里还是家，名字什么的无所谓啦。</p>
-<p>我突然就有预感，这个博客，<strong>以后很有可能成为我某一科目的大作业</strong>。（大学生卑微了）<br>这样想想，博客这种面向大众的东西，还是应该做好隐私的审查。<br>如果有冒险者发现对隐私有保护不当的地方，请与我联系。<br>联系方式的话，先在这里放一个吧，About me还没做起来…（要有很多坑要填）<br>邮箱： <a href="mailto:&#x39;&#55;&#53;&#56;&#x30;&#56;&#x31;&#x32;&#x37;&#x40;&#113;&#x71;&#46;&#99;&#111;&#x6d;">&#x39;&#55;&#53;&#56;&#x30;&#56;&#x31;&#x32;&#x37;&#x40;&#113;&#x71;&#46;&#99;&#111;&#x6d;</a></p>
+<p>我突然就有预感，这个博客，<strong>以后很有可能成为我某一科目的大作业</strong>。（大学生卑微了）<br>这样想想，博客这种面向大众的东西，还是应该做好隐私的审查。<br>如果有冒险者发现对隐私有保护不当的地方，请与我联系。<br>联系方式的话，先在这里放一个吧，About me还没做起来…（要有很多坑要填）<br>邮箱： <a href="mailto:&#57;&#x37;&#x35;&#x38;&#48;&#x38;&#49;&#x32;&#x37;&#x40;&#x71;&#113;&#x2e;&#99;&#x6f;&#x6d;">&#57;&#x37;&#x35;&#x38;&#48;&#x38;&#49;&#x32;&#x37;&#x40;&#x71;&#113;&#x2e;&#99;&#x6f;&#x6d;</a></p>
 <hr>
 <h3 id="对冒险者的一些话"><a href="#对冒险者的一些话" class="headerlink" title="对冒险者的一些话"></a>对冒险者的一些话</h3><p>首先非常荣幸，能够在茫茫人海中遇见你，如果你喜欢我的博客的话，不妨点个关注<br>关注的方法嘛…<br>该没有想好，反正肯定是有办法的！<br>实在不行的话就先收藏一下这个页面啦~<br>能请我喝杯咖啡那自然是最好，写博客真的很累的！特别是技术型博客！</p>
 <hr>
@@ -125,6 +90,41 @@
       <tags>
         <tag>Diary</tag>
         <tag>YiSmallzier</tag>
+        <tag>About</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2021/05/28/About-Me/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="基本信息-Essential-Intormation"><a href="#基本信息-Essential-Intormation" class="headerlink" title="基本信息 (Essential Intormation)"></a>基本信息 (Essential Intormation)</h4><hr>
+<ul>
+<li>姓名：邓定轩</li>
+<li>现居：厦门</li>
+<li>Github：<a href="https://github.com/YiSmallzier">YiSmallzier</a></li>
+<li>Bilibili：<a href="https://space.bilibili.com/21133094">Yi_v_Yi</a></li>
+<li>QQ：975808127</li>
+<li>微信：ddx_Yi_Smallzier</li>
+</ul>
+<div align="center" style="height: 280px; margin: 40px">
+    <img style="height: 100%" src="https://i.loli.net/2021/05/28/o1vrIiZguJyOcHk.jpg" />
+</div>
+
+<h4 id="兴趣爱好-Interests"><a href="#兴趣爱好-Interests" class="headerlink" title="兴趣爱好 (Interests)"></a>兴趣爱好 (Interests)</h4><hr>
+<ul>
+<li>古典吉他</li>
+<li>手冲咖啡</li>
+<li>编程</li>
+<li>音乐</li>
+<li>Minecraft</li>
+<li>音乐游戏(Music Game)</li>
+</ul>
+<h4 id="个人简介-Personal-Introduciton"><a href="#个人简介-Personal-Introduciton" class="headerlink" title="个人简介 (Personal Introduciton)"></a>个人简介 (Personal Introduciton)</h4><hr>
+<ul>
+<li>XMUer</li>
+<li>二十四岁，是学生(bushi)</li>
+</ul>
+]]></content>
+      <tags>
         <tag>About</tag>
       </tags>
   </entry>
