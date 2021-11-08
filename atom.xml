@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-07T08:59:05.121Z</updated>
+  <updated>2021-11-08T07:20:58.947Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tiny</title>
+    <link href="http://example.com/2021/11/08/Tiny/"/>
+    <id>http://example.com/2021/11/08/Tiny/</id>
+    <published>2021-11-08T06:45:57.000Z</published>
+    <updated>2021-11-08T07:20:58.947Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h3 id=&quot;Tiner——为什么是这个名字？&quot;&gt;&lt;a href=&quot;#Tiner——为什么是这个名字？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="dairy" scheme="http://example.com/tags/dairy/"/>
+    
+  </entry>
   
   <entry>
     <title>I_miss_U</title>
